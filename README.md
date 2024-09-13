@@ -1,8 +1,6 @@
-# React + Vite
+#Crisol.arg
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##¡Bienvenido a Crisol.arg! 🌟
+*En Crisol.arg, nos apasiona ofrecerte lo mejor de la moda con un toque único y auténtico. Nuestra tienda online está diseñada para brindarte una experiencia de compra excepcional, donde encontrarás una amplia variedad de prendas de vestir*
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+*© 2024 - Matias Cortes Maciel*
