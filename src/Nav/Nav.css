@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+
+nav {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.marca {
+    margin-top: -100px;
+}
+
+a {
+    color: black;
+    box-shadow: none;
+    text-decoration: none;
+}
+
+.link {
+    color: black;
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 3rem;
+    margin: 100px;
+}

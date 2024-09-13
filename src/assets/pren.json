@@ -1,0 +1,61 @@
+[
+    {
+        "img": "../../public/img/Abrigopaño.jpg",
+        "id": 0,
+        "nombre": "Saco de Paño",
+        "descripcion": "El saco es una prenda elegante y versátil que seguramente destacará en tu guardarropa. Este saco está confeccionado en paño, lo que le confiere un aspecto clásico y atemporal. Con un solo botón para abrocharse, este saco ofrece un estilo sencillo y refinado. Su corte amplio y su largo hasta la cintura lo hacen ideal para lucir con distintos conjuntos, ya sea para ocasiones formales o informales. Es una pieza imprescindible que aportará sofisticación a tu vestimenta.",
+        "precio": "$50.000"
+    },
+    {
+        "img": "../../public/img/Pañoescocés.jpg",
+        "id": 1,
+        "nombre": "Paño Escocés",
+        "descripcion": "El paño escocés es un tipo de tela que se caracteriza por su diseño de cuadros, típicamente en colores vivos y contrastantes. Este tejido es muy popular en la moda femenina, especialmente en abrigos y faldas, debido a su estilo clásico y atemporal.",
+        "precio": "$40.000"
+    },
+    {
+        "img": "../../public/img/camp-jean.jpg",
+        "id": 2,
+        "nombre": "Blazer Saco Jean",
+        "descripcion": "Estilo y Funcionalidad: Nuestro trench de jean es la mezcla perfecta de moda y utilidad. Su diseño moderno y elegante es ideal para cualquier ocasión, desde una salida casual hasta un evento más formal.",
+        "precio": "$60.000"
+    },
+    {
+        "img": "../../public/img/short-fal.jpg",
+        "id": 3,
+        "nombre": "Short Pollera de Crepe",
+        "descripcion": "Short Pollera de Crepe con Cierre Invisible. Tiro Alto. Una prenda moderna para usar en todas las ocasiones casuales o de noche",
+        "precio": "17.000"
+    },
+    {
+        "img": "../../public/img/camisa1.jpg",
+        "id": 4,
+        "nombre": "Camisa de Manga Corta",
+        "descripcion": "Perfecta para el verano, esta camisa de manga corta con bolsillos al frente es tan versátil como elegante. Disponible en un vibrante tono verde, este top añade un toque de color a cualquier atuendo, haciendo que sea ideal tanto para un día en la oficina como para una tarde de compras. Su diseño clásico y práctico se combina con detalles modernos para un estilo fresco y actual.",
+        "precio": "$20.000"
+    },
+    {
+        "id": 5,
+        "nombre": "",
+        "descripcion": "",
+        "precio": ""
+    },
+    {
+        "id": 6,
+        "nombre": "",
+        "descripcion": "",
+        "precio": ""
+    },
+    {
+        "id": 7,
+        "nombre": "",
+        "descripcion": "",
+        "precio": ""
+    },
+    {
+        "id": 8,
+        "nombre": "",
+        "descripcion": "",
+        "precio": ""
+    }
+]

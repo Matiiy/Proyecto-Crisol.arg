@@ -1,0 +1,24 @@
+body {
+    background-color: rgb(214, 234, 248);
+}
+.prendas{
+    border: 3px solid rgb(255, 255, 255);
+    margin: 3rem;
+    border-radius: 50px;
+}
+.prendas-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    text-align: center;
+    width: 55vh;
+    border-radius: 50px;
+    margin-top: 0px;
+}
+.prendas:hover {
+    transform: translate(-15px);
+    box-shadow: rgb(255, 255, 255) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
