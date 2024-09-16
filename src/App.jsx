@@ -1,5 +1,5 @@
 import "./App.css"
-import { NavBar } from "./nav/NavBar"
+import { NavBar } from "./Nav/NavBar"
 import prendas from "./assets/pren.json"
 import { Prendas } from "./components/Prendas"
 function App() {
