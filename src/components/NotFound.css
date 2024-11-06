@@ -1,0 +1,10 @@
+.Not{
+    text-align: center;
+    margin: auto;
+}
+body {
+    background-color: rgb(214, 234, 248);
+}
+footer, .carro, a {
+    display: none;
+}

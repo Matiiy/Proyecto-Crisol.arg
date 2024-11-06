@@ -1,0 +1,21 @@
+footer {
+    background-color: rgb(249, 247, 247);
+    font-size: 3rem;
+    color: aliceblue;
+    width: 205.8vh;
+    font-family: "Montserrat", Sans-serif;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    translate: -10px;
+    margin-bottom: -10px;
+}
+
+footer img {
+    width: 4%;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}

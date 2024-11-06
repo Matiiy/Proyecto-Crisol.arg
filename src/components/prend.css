@@ -5,6 +5,8 @@ body {
     border: 3px solid rgb(255, 255, 255);
     margin: 3rem;
     border-radius: 50px;
+    background-color: rgb(214, 234, 248);
+    display: block;
 }
 .prendas-body{
     display: flex;
@@ -19,6 +21,29 @@ img{
     margin-top: 0px;
 }
 .prendas:hover {
-    transform: translate(-15px);
     box-shadow: rgb(255, 255, 255) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+    scale: 1.03;
 }
+.agregar-carrito {
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 18px;
+    font-size: 25px;
+    cursor: pointer;
+    background-color: rgb(214, 234, 248);
+    color: rgb(113, 118, 123);
+    margin-bottom: 60px;
+}
+
+
+/* #productos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.producto {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    text-align: center;
+} */

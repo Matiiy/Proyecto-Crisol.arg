@@ -1,22 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 
 nav {
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
+    margin-left: 530px;
+    margin-top: 100px;
 }
 
 .marca {
     margin-top: -100px;
 }
 
-a {
-    color: black;
-    box-shadow: none;
-    text-decoration: none;
-}
+
 
 .link {
     color: black;
@@ -26,4 +19,94 @@ a {
     font-style: normal;
     font-size: 3rem;
     margin: 100px;
+    text-decoration: none;
+    box-shadow: none;
+}
+
+.img-car {
+    background-color: rgb(255, 255, 255);
+    width: 100px;
+    height: 100px;
+    translate: 90px;
+    position: fixed;
+    margin-top: 70px;
+    z-index: 2;
+}
+.carro{
+    position: relative;
+}
+.carro #carrito{
+    display: none;
+}
+
+.carro:hover #carrito{
+    backdrop-filter: blur(10px);
+    width: auto;
+    width: 20%;
+    height: auto;
+    position: absolute;
+    margin-top: 171px;
+    translate: -100px;
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px ;
+    border: 1px solid white;
+    position: fixed;
+    display: block;
+    transition: none;
+    z-index: 1;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    border: blur(10px);
+    height: 400px;
+}
+.tittle {
+    text-align: center;
+    font-size: 1.7rem;
+}
+  table{
+    width: 100%;
+ }
+ th, td {
+    color:  rgb(5, 8, 10);
+ }
+ tbody {
+    grid-template-columns: 1fr 1fr 1fr;
+ }
+
+#lista-carrito img {
+    width: 10vh;
+ }
+ #lista-carrito {
+    margin: 4.5px;
+ }
+#vaciar-carrito {
+    margin-left: 105px;
+    cursor: pointer;
+    background-color: rgb(214, 234, 248);
+    color: rgb(8, 8, 8);
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 18px;
+}
+#comprar {
+    margin-left: 180px;
+    cursor: pointer;
+    background-color: rgb(214, 234, 248);
+    color: rgb(8, 8, 8);
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 18px;
+    box-shadow: none;
+    text-decoration: none;
+}
+#carrito button {
+    margin-left: 35px;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+}
+.borrar {
+    cursor: pointer;
+    background-color: rgb(214, 234, 248);
+    color: rgb(8, 8, 8);
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 18px;
 }

@@ -1,61 +1,128 @@
 [
     {
-        "img": "../../public/img/Abrigopaño.jpg",
+        "img": "../public/Abrigopaño.jpg",
         "id": 0,
         "nombre": "Saco de Paño",
         "descripcion": "El saco es una prenda elegante y versátil que seguramente destacará en tu guardarropa. Este saco está confeccionado en paño, lo que le confiere un aspecto clásico y atemporal. Con un solo botón para abrocharse, este saco ofrece un estilo sencillo y refinado. Su corte amplio y su largo hasta la cintura lo hacen ideal para lucir con distintos conjuntos, ya sea para ocasiones formales o informales. Es una pieza imprescindible que aportará sofisticación a tu vestimenta.",
         "precio": "$50.000"
     },
     {
-        "img": "../../public/img/Pañoescocés.jpg",
+        "img": "../public/Pañoescocés.jpg",
         "id": 1,
         "nombre": "Paño Escocés",
         "descripcion": "El paño escocés es un tipo de tela que se caracteriza por su diseño de cuadros, típicamente en colores vivos y contrastantes. Este tejido es muy popular en la moda femenina, especialmente en abrigos y faldas, debido a su estilo clásico y atemporal.",
         "precio": "$40.000"
     },
     {
-        "img": "../../public/img/camp-jean.jpg",
+        "img": "../public/camp-jean.jpg",
         "id": 2,
         "nombre": "Blazer Saco Jean",
         "descripcion": "Estilo y Funcionalidad: Nuestro trench de jean es la mezcla perfecta de moda y utilidad. Su diseño moderno y elegante es ideal para cualquier ocasión, desde una salida casual hasta un evento más formal.",
         "precio": "$60.000"
     },
     {
-        "img": "../../public/img/short-fal.jpg",
+        "img": "../public/short-fal.jpg",
         "id": 3,
         "nombre": "Short Pollera de Crepe",
         "descripcion": "Short Pollera de Crepe con Cierre Invisible. Tiro Alto. Una prenda moderna para usar en todas las ocasiones casuales o de noche",
-        "precio": "17.000"
+        "precio": "17.999"
     },
     {
-        "img": "../../public/img/camisa1.jpg",
+        "img": "../public/camisa1.jpg",
         "id": 4,
         "nombre": "Camisa de Manga Corta",
         "descripcion": "Perfecta para el verano, esta camisa de manga corta con bolsillos al frente es tan versátil como elegante. Disponible en un vibrante tono verde, este top añade un toque de color a cualquier atuendo, haciendo que sea ideal tanto para un día en la oficina como para una tarde de compras. Su diseño clásico y práctico se combina con detalles modernos para un estilo fresco y actual.",
-        "precio": "$20.000"
+        "precio": "$24.999"
     },
     {
+        "img": "../public/camisajean.jpg",
         "id": 5,
-        "nombre": "",
-        "descripcion": "",
-        "precio": ""
+        "nombre": "Camisa de Jean",
+        "descripcion": "Camisa Larga Jean con bolsillos delanteros y bolsillos a los costados. Ideal para noche con una calza metalizada, para un tarde con un short o para todos los días",
+        "precio": "$45.000"
     },
     {
+        "img": "../public/jeanmom.jpg",
         "id": 6,
-        "nombre": "",
-        "descripcion": "",
-        "precio": ""
+        "nombre": "Pantalón Jeans Mom Semi Elastizado Rotura Rodilla",
+        "descripcion": "Los Pantalón Jeans Mom Elastizado son la elección perfecta para las mujeres que buscan comodidad y estilo en una sola prenda. Confeccionados en jean elástico, se adaptan a tu cuerpo brindando una sensación de libertad de movimiento.",
+        "precio": "$34.999"
     },
     {
+        "img": "../public/jogger.jpg",
         "id": 7,
-        "nombre": "",
-        "descripcion": "",
-        "precio": ""
+        "nombre": "Jogger Cargo Dama Gabardina Estatizada",
+        "descripcion": "Este Jogger Cargo para mujer es ideal para mujeres que buscan comodidad y estilo en un mismo pantalón. Confeccionado en Gabardina Stretch, este pantalón ofrece un corte Slim que se ajusta perfectamente al cuerpo, resaltando la figura femenina. El tiro alto brinda mayor comodidad y favorece la silueta",
+        "precio": "$27.999"
     },
     {
-        "id": 8,
-        "nombre": "",
-        "descripcion": "",
-        "precio": ""
+        "img": "../public/top.jpg",
+        "id": 9,
+        "nombre": "Top De Microfibra Reforzado Con Algodón Interno",
+        "descripcion": "Si estás buscando un Top Deportivo extremadamente cómodo, que genera la sensación de ligereza y suavidad, esta es tu mejor opción.",
+        "precio": "$19.999"
+    },
+    {
+        "img": "../public/pantalonlino.jpg",
+        "id": 10,
+        "nombre": "Pantalon Lino Magnolia",
+        "descripcion": "Nuestro Pantalón Magnolia, confeccionado con una suave mezcla de lino, rayón y un toque de spandex, es la pieza ideal para quienes buscan una prenda que se adapte a todas las ocasiones. Este pantalón fluido tiene un calce relajado que favorece a todas las siluetas, mientras que los delicados pliegues en el frente añaden un detalle elegante sin esfuerzo.",
+        "precio": "$54.999"
+    },
+    {
+        "img": "../public/joggerfran.jpg",
+        "id": 11,
+        "nombre": "Jogger Fran",
+        "descripcion": "Confeccionado en 100% algodón, este pantalón ofrece una combinación ideal de comodidad y estilo. Su diseño incluye una cintura elástica con cordón ajustable que garantiza un ajuste perfecto, además de bolsillos laterales y traseros visibles que añaden funcionalidad. El corte holgado y la tela de gabardina liviana hacen de esta prenda una opción versátil y fresca, ideal para un look casual y relajado.",
+        "precio": "$62.999"
+    },
+    {
+        "img": "../public/musculosapenelope.jpg",
+        "id": 12,
+        "nombre": "Musculosa Penelope BF",
+        "descripcion": "Esta musculosa combina un 95% de algodón con un 5% de elastano, proporcionando un ajuste cómodo y flexible que se adapta al cuerpo. Su diseño de bretel ancho y calce ajustado la convierten en una prenda básica y versátil. Perfecta para el uso diario, esta musculosa es una adición esencial para cualquier guardarropa.",
+        "precio": "$22.999"
+    },
+    {
+        "img": "../public/camisalino.jpg",
+        "id": 13,
+        "nombre": "Camisa Lino Aruba",
+        "descripcion": "Camisa de manga 3/4 rayada, de corte regular. Confeccionada en 100%",
+        "precio": "$55.999"
+    },
+    {
+        "img": "../public/camisadenim.jpg",
+        "id": 14,
+        "nombre": "Camisa Denim Barcelona",
+        "descripcion": "¡AñadÍ un toque casual y chic a tu guardarropa con la Camisa Denim Barcelona! Confeccionada en tela 100% algodón, esta camisa es tan suave como resistente, perfecta para acompañarte en todas tus aventuras diarias. Su diseño relajado, con bolsillos frontales y un corte ligeramente oversize, la hace ideal para combinar con prácticamente cualquier prenda.",
+        "precio": "$79.999"
+    },
+    {
+        "img": "../public/camperaeva.jpg",
+        "id": 15,
+        "nombre": "Campera Eva Blue",
+        "descripcion": "Confeccionada en una mezcla de 99% algodón y 1% elastano. Esta campera ofrece un diseño clásico con botones metálicos al frente y bolsillos en el pecho, lo que la convierte en una prenda versátil y cómoda para el día a día. Su tono azul clásico la hace fácil de combinar con diferentes estilos.",
+        "precio": "$75.999"
+    },
+    {
+        "img": "../public/camperaamy.jpg",
+        "id": 16,
+        "nombre": "Campera Amy",
+        "descripcion": "¡La Campera Amy es esa prenda que necesitas para darle un toque moderno y relajado a tus looks diarios! Confeccionada en una resistente tela de gabardina con un toque de elasticidad, gracias a su mezcla de algodón y spandex, esta campera es tan cómoda como estilosa. Su diseño holgado, con botones en el frente y bolsillos utilitarios en el pecho, la hacen ideal para esos días en los que querés verte bien sin esfuerzo.",
+        "precio": "$69.999"
+    },
+    {
+        "img": "../public/pilotoniza.jpg",
+        "id": 17,
+        "nombre": "Piloto Niza",
+        "descripcion": "Confeccionado en Siré Parachute, una tela ligera y resistente con un acabado sutilmente brillante. Este piloto ofrece protección contra el viento y la lluvia sin sacrificar estilo. Cuenta con un corte clásico, botones frontales dorados y un ajuste cómodo que llega hasta el muslo. Ideal para un look casual y sofisticado en días lluviosos. Composición: 43% Poliéster - 57% Poliamida. Color: Beige.",
+        "precio": "$79.999"
+    },
+    {
+        "img": "../public/camperamila.jpg",
+        "id": 18,
+        "nombre": "Campera Mila",
+        "descripcion": "¡Dale un giro audaz a tu look con esta campera de PU! Con su acabado en poliuretano de alta calidad, esta chaqueta tiene un estilo biker que nunca pasa de moda. Los detalles de cierre metálico y las solapas con botones a presión le dan un toque rebelde y sofisticado. Perfecta para combinar con jeans y botas para una salida casual o con un vestido para un estilo más chic. Es suave, resistente y, lo mejor de todo, ¡es súper versátil!",
+        "precio": "$139.999"
     }
 ]

@@ -1,25 +1,21 @@
+import { BrowserRouter, Routes, Route } from "react-router-dom"
 import "./App.css"
 import { NavBar } from "./Nav/NavBar"
-import prendas from "./assets/pren.json"
-import { Prendas } from "./components/Prendas"
+import { PaginaPrincipal } from "./PagPr/PaginaPrincipal"
+import { Footer } from "./components/Footer"
+import { NotFound } from "./components/NotFound"
+
 function App() {
   return (
     <>
-      <NavBar />
-      <div className="Estilo">
-        {
-          prendas.map((Element, key) => {
-            return (<Prendas
-              key={key}
-              id={Element.id}
-              img={Element.img}
-              nombre={Element.nombre}
-              descripcion={Element.descripcion}
-              precio={Element.precio}
-            />)
-          })
-        }
-      </div>
+      <BrowserRouter>
+        <NavBar />
+        <Routes>
+          <Route path="/" element={<PaginaPrincipal />}></Route>
+          <Route path="*" element={<NotFound />}></Route>
+        </Routes>
+        <Footer />
+      </BrowserRouter>
     </>
   )
 }
